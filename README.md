@@ -123,7 +123,7 @@ The project also helped me understand how different pages of an e-commerce websi
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone [YOUR_REPOSITORY_URL](https://github.com/Naman-Gudhka-1912/amazon-clone.git)
 ```
 
 ### 2. Open the project
